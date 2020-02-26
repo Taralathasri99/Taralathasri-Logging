@@ -1,0 +1,3 @@
+2020-02-26 20:02:02 INFO  App:16 - Enter the type of Interest 1.Simple Interest 2.Compound Interest
+2020-02-26 20:02:10 INFO  App:19 - Enter the principle amount,Time,Rate of Interest
+2020-02-26 20:02:22 INFO  App:25 - Simple interest is: Rs.36000.0
